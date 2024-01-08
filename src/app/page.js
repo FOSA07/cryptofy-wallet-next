@@ -122,7 +122,7 @@ function Hero (){
                   <div class="form-group py-3">
                       {/* <label for="exampleInputEmail1">Email address</label> */}
                       <input type="email" class="form-control border-dark" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address" style={{  }}/>
-                      <small id="emailHelp" class="form-text text-muted pb-3">We'll never share your email with anyone else.</small>
+                      <small id="emailHelp" class="form-text text-muted pb-3">We&apos;ll never share your email with anyone else.</small>
                   </div>
                   
                   <button type="submit" class="btn btn-primary rounded-3">Sign up for our Waitlist</button>
@@ -136,7 +136,7 @@ function Hero (){
                   <div class="form-group py-3">
                       {/* <label for="exampleInputEmail1">Email address</label> */}
                       <input type="email" class="form-control border-dark" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address" style={{width: '70vw'}}/>
-                      <small id="emailHelp" class="form-text text-muted pb-3">We'll never share your email with anyone else.</small>
+                      <small id="emailHelp" class="form-text text-muted pb-3">We&apos;ll never share your email with anyone else.</small>
                   </div>
                   
                   <button type="submit" class="btn btn-primary rounded-3">Sign up for our Waitlist</button>
@@ -210,7 +210,7 @@ function About (){
                               Wallets & DApps Alerts
                           </h3>
                           <p>
-                              Your crypto assets deserve the utmost protection, and PhoenixBot takes this responsibility seriously. With real-time monitoring capabilities, it actively scans the blockchain for any suspicious activities related to your wallet. Whether it's an unauthorized access attempt or an unusual transaction pattern, PhoenixBot promptly alerts you, empowering you to take immediate action and safeguard your funds.
+                              Your crypto assets deserve the utmost protection, and PhoenixBot takes this responsibility seriously. With real-time monitoring capabilities, it actively scans the blockchain for any suspicious activities related to your wallet. Whether it&apos;s an unauthorized access attempt or an unusual transaction pattern, PhoenixBot promptly alerts you, empowering you to take immediate action and safeguard your funds.
                           </p>
                       </div>
 
@@ -222,7 +222,7 @@ function About (){
                               User Friendly Interface
                           </h3>
                           <p>
-                              Navigating the complexities of the crypto world is made simple with PhoenixBot's user-friendly interface. Accessible on various devices, this intuitive platform provides a seamless experience, allowing users to customize security preferences, set alerts, and receive notifications effortlessly.
+                              Navigating the complexities of the crypto world is made simple with PhoenixBot&apos;s user-friendly interface. Accessible on various devices, this intuitive platform provides a seamless experience, allowing users to customize security preferences, set alerts, and receive notifications effortlessly.
 
                           </p>
                       </div>
