@@ -166,69 +166,99 @@ function About (){
           </div>
           </div>
 
-          <div className='pt-3'>
-
-              <div className='container'>
-
-                  <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2' style={{ }}>
-                      <div className='bg-danger border-dark rounded-4 ' style={{  }}>
+            <div className='pt-3'>
+                <div className='container'>
+                <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 py-4' style={{ }}>
+                    <div className='bg-danger border-dark rounded-4 ' style={{  }}>
                       
-                      </div>
+                    </div>
 
-                      <div className='bg-danger border-dark rounded-4 d-md-none px-4 py-4' style={{height: '100vw'}}>
+                    <div className='px-md-4 py-4'>
+                        <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '100%', height: '50vw'}}>
+                        
+                        </div><br />
+                        <h3 style={{fontWeight: 'bolder'}}>
+                            Smart Contract Check
+                        </h3>
+                        <p >
+                            PhoenixBot employs cutting-edge technology to conduct thorough smart contract audits. By meticulously scrutinizingn every line of code, it ensures that the contracts you engage with are Secure
+                            and free from vulnerabilities. The proactive approach migrates the risk associated with smart contract explots, offering you peace of mind as you navigate the decentralized landscape
+                        </p>
+                    </div>
+                </div>
+
+                <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2' style={{ }}>
+
+                    <div className='px-md-4 py-4'>
+                        <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '100%', height: '50vw'}}>
+                    
+                        </div><br />
+                        <h3 style={{fontWeight: 'bolder'}}>
+                            News Verification
+                        </h3>
+                        <p>
+                            Staying informed is crucial in the crypto space, but misinformation can pose significant threats. PhoenixBot goes beyond conventional news aggregators by employing advanced algorithms to verify the authenticity of news sources. It filters out unreliable information, allowing you to make well-informed decisions based on accurate and verified news, reducing the likelihood of falling victim to scams or market manipulation.
+                        </p>
+                    </div>
+
+                    <div className='bg-danger border-dark rounded-4 ' style={{  }}>
                       
-                      </div>
+                    </div>
 
-                      <div>
-                      <div className='px-md-4 py-4'>
-                          <h3 style={{fontWeight: 'bolder'}}>
-                              Smart Contract Check
-                          </h3>
-                          <p >
-                              PhoenixBot employs cutting-edge technology to conduct thorough smart contract audits. By meticulously scrutinizingn every line of code, it ensures that the contracts you engage with are Secure
-                              and free from vulnerabilities. The proactive approach migrates the risk associated with smart contract explots, offering you peace of mind as you navigate the decentralized landscape
-                          </p>
-                      </div>
+                    
+                </div>
 
-                      <div className='px-md-4 py-4'>
-                          <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '35vw', height: '35vw'}}>
+                <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2' style={{ }}>
+
+                    <div className='bg-danger border-dark rounded-4 ' style={{  }}>
                       
-                          </div><br />
-                          <h3 style={{fontWeight: 'bolder'}}>
-                              News Verification
-                          </h3>
-                          <p>
-                              Staying informed is crucial in the crypto space, but misinformation can pose significant threats. PhoenixBot goes beyond conventional news aggregators by employing advanced algorithms to verify the authenticity of news sources. It filters out unreliable information, allowing you to make well-informed decisions based on accurate and verified news, reducing the likelihood of falling victim to scams or market manipulation.
-                          </p>
-                      </div>
+                    </div>
 
-                      <div className='px-md-4 py-4'>
-                          <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '35vw', height: '35vw'}}>
+                    <div className='px-md-4 py-4'>
+                        <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '100%', height: '50vw'}}>
+                    
+                        </div><br />
+                        <h3 style={{fontWeight: 'bolder'}}>
+                            Wallets & DApps Alerts
+                        </h3>
+                        <p>
+                            Your crypto assets deserve the utmost protection, and PhoenixBot takes this responsibility seriously. With real-time monitoring capabilities, it actively scans the blockchain for any suspicious activities related to your wallet. Whether it&apos;s an unauthorized access attempt or an unusual transaction pattern, PhoenixBot promptly alerts you, empowering you to take immediate action and safeguard your funds.
+                        </p>
+                    </div>
+
+                    
+                </div>
+
+                <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2' style={{ }}>
+
+                    <div className='px-md-4 py-4'>
+                        <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '100%', height: '50vw'}}>
+                    
+                        </div><br />
+                        <h3 style={{fontWeight: 'bolder'}}>
+                            User Friendly Interface
+                        </h3>
+                        <p>
+                            Navigating the complexities of the crypto world is made simple with PhoenixBot&apos;s user-friendly interface. Accessible on various devices, this intuitive platform provides a seamless experience, allowing users to customize security preferences, set alerts, and receive notifications effortlessly.
+
+                        </p>
+                    </div>
+
+                    <div className='bg-danger border-dark rounded-4 ' style={{  }}>
                       
-                          </div><br />
-                          <h3 style={{fontWeight: 'bolder'}}>
-                              Wallets & DApps Alerts
-                          </h3>
-                          <p>
-                              Your crypto assets deserve the utmost protection, and PhoenixBot takes this responsibility seriously. With real-time monitoring capabilities, it actively scans the blockchain for any suspicious activities related to your wallet. Whether it&apos;s an unauthorized access attempt or an unusual transaction pattern, PhoenixBot promptly alerts you, empowering you to take immediate action and safeguard your funds.
-                          </p>
-                      </div>
+                    </div>
 
-                      <div className='px-md-4 py-4'>
-                          <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '35vw', height: '35vw'}}>
+                    
+                </div>
+
+                <div className='row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2' style={{ }}>
+
+                    <div className='bg-danger border-dark rounded-4 ' style={{  }}>
                       
-                          </div><br />
-                          <h3 style={{fontWeight: 'bolder'}}>
-                              User Friendly Interface
-                          </h3>
-                          <p>
-                              Navigating the complexities of the crypto world is made simple with PhoenixBot&apos;s user-friendly interface. Accessible on various devices, this intuitive platform provides a seamless experience, allowing users to customize security preferences, set alerts, and receive notifications effortlessly.
+                    </div>
 
-                          </p>
-                      </div>
-
-                      <div className='px-md-4 py-4'>
-                          <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '35vw', height: '35vw'}}>
+                    <div className='px-md-4 py-4'>
+                          <div className='bg-danger border-dark rounded-4 d-md-none' style={{width: '100%', height: '50vw'}}>
                       
                           </div><br />
 
@@ -241,11 +271,12 @@ function About (){
                           </p>
                       </div>
 
-                  </div></div>
-              </div>
+                    
+                </div>
 
-              
-          </div>
+                </div>
+            </div>
+
       </div>
 
   );
